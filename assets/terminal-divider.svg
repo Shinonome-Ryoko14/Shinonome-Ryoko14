@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="28" viewBox="0 0 1200 28" role="img" aria-label="Subtle terminal green divider">
+  <rect x="0" y="13" width="1200" height="1" fill="#7cff6b" opacity=".22"/>
+  <rect x="0" y="10" width="90" height="6" rx="3" fill="#7cff6b" opacity=".85">
+    <animate attributeName="x" values="-90;1200" dur="8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
