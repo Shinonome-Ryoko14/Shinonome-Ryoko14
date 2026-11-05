@@ -1,41 +1,69 @@
 {
   "login": "Shinonome-Ryoko14",
-  "generated_at": "2026-11-04T00:00:00Z",
+  "generated_at": "2026-11-05T08:32:16Z",
   "stats": {
-    "contributions": 69,
-    "public_repos": 11,
-    "languages": 6,
-    "top_language": "Go",
-    "followers": 1
+    "contributions": 99,
+    "public_repos": 12,
+    "languages": 13,
+    "top_language": "Python",
+    "followers": 2
   },
   "latest_repo": {
-    "name": "harmony-eldercare",
-    "pushed_at": "2026-11-03T00:00:00Z"
+    "name": "NixOS-config",
+    "pushed_at": "2026-11-05T01:13:40Z"
   },
   "languages": [
     {
-      "name": "Go",
-      "bytes": 136300
+      "name": "Python",
+      "bytes": 226720
     },
     {
-      "name": "Python",
-      "bytes": 61000
+      "name": "Nix",
+      "bytes": 166024
+    },
+    {
+      "name": "Go",
+      "bytes": 139612
+    },
+    {
+      "name": "CSS",
+      "bytes": 30289
+    },
+    {
+      "name": "GLSL",
+      "bytes": 30193
     },
     {
       "name": "Lua",
-      "bytes": 16700
+      "bytes": 29601
     },
     {
       "name": "C++",
-      "bytes": 13300
+      "bytes": 19683
+    },
+    {
+      "name": "Shell",
+      "bytes": 7061
+    },
+    {
+      "name": "QML",
+      "bytes": 5562
+    },
+    {
+      "name": "Makefile",
+      "bytes": 4011
+    },
+    {
+      "name": "Java",
+      "bytes": 2639
     },
     {
       "name": "C",
-      "bytes": 5200
+      "bytes": 906
     },
     {
-      "name": "SQL",
-      "bytes": 3500
+      "name": "TypeScript",
+      "bytes": 214
     }
   ]
 }
