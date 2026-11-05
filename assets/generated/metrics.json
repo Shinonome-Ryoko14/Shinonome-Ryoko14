@@ -1,0 +1,41 @@
+{
+  "login": "Shinonome-Ryoko14",
+  "generated_at": "2026-11-04T00:00:00Z",
+  "stats": {
+    "contributions": 69,
+    "public_repos": 11,
+    "languages": 6,
+    "top_language": "Go",
+    "followers": 1
+  },
+  "latest_repo": {
+    "name": "harmony-eldercare",
+    "pushed_at": "2026-11-03T00:00:00Z"
+  },
+  "languages": [
+    {
+      "name": "Go",
+      "bytes": 136300
+    },
+    {
+      "name": "Python",
+      "bytes": 61000
+    },
+    {
+      "name": "Lua",
+      "bytes": 16700
+    },
+    {
+      "name": "C++",
+      "bytes": 13300
+    },
+    {
+      "name": "C",
+      "bytes": 5200
+    },
+    {
+      "name": "SQL",
+      "bytes": 3500
+    }
+  ]
+}

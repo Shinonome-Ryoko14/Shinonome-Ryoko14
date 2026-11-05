@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="8" height="20" viewBox="0 0 8 20" role="img" aria-label="">
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7FC4E8"/>
+      <stop offset="1" stop-color="#3388BB"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="6" height="18" rx="3" fill="url(#blue)"/>
+</svg>

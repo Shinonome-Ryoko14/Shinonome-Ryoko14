@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">GitHub metrics and language distribution</title>
+<desc id="desc">Contribution count, public repositories, languages, and a colored language distribution bar.</desc>
+<defs>
+<linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#3388BB" stop-opacity=".9"/><stop offset=".5" stop-color="#3388BB" stop-opacity=".28"/><stop offset="1" stop-color="#3388BB" stop-opacity="0"/></linearGradient>
+<radialGradient id="halo" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#3388BB" stop-opacity="0.13"/><stop offset=".55" stop-color="#3388BB" stop-opacity="0.065"/><stop offset="1" stop-color="#3388BB" stop-opacity="0"/></radialGradient>
+<clipPath id="barclip"><rect x="48" y="248" width="1104" height="10" rx="5"/></clipPath>
+</defs>
+<rect x=".5" y=".5" width="1199" height="339" rx="18" fill="#F7FBFD" stroke="#CFE6F2"/>
+<ellipse cx="330" cy="112" rx="360" ry="120" fill="url(#halo)"/>
+<ellipse cx="760" cy="112" rx="300" ry="100" fill="url(#halo)" opacity=".55"/>
+<rect x="48" y="26" width="3" height="18" rx="1.5" fill="#3388BB"/>
+<text x="62" y="41" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="2.6">GITHUB</text>
+<text x="1152" y="40" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="500" text-anchor="end" letter-spacing="0.9">UPDATED 2026-11-04</text>
+<text x="48" y="132" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" text-anchor="start">69</text>
+<rect x="48" y="148" width="24" height="2" rx="1" fill="#3388BB" opacity=".78"/>
+<text x="48" y="172" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="start" letter-spacing="1.2">CONTRIBUTIONS, LAST YEAR</text>
+<text x="416" y="132" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" text-anchor="start">11</text>
+<rect x="416" y="148" width="24" height="2" rx="1" fill="#3388BB" opacity=".78"/>
+<text x="416" y="172" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="start" letter-spacing="1.2">PUBLIC REPOSITORIES</text>
+<text x="784" y="132" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" text-anchor="start">6</text>
+<rect x="784" y="148" width="24" height="2" rx="1" fill="#3388BB" opacity=".78"/>
+<text x="784" y="172" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="start" letter-spacing="1.2">LANGUAGES</text>
+<rect x="48" y="202" width="1104" height="1" fill="#CFE6F2" opacity=".75"/>
+<text x="48" y="232" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="700" text-anchor="start" letter-spacing="1.4">LANGUAGE DISTRIBUTION</text>
+<rect x="48" y="248" width="1104" height="10" rx="5" fill="#E3F1F8"/>
+<rect x="48.00" y="248" width="637.61" height="10" fill="#00ADD8" clip-path="url(#barclip)"/>
+<rect x="685.61" y="248" width="285.36" height="10" fill="#3572A5" clip-path="url(#barclip)"/>
+<rect x="970.96" y="248" width="78.12" height="10" fill="#6A5ACD" clip-path="url(#barclip)"/>
+<rect x="1049.08" y="248" width="62.22" height="10" fill="#F34B7D" clip-path="url(#barclip)"/>
+<rect x="1111.30" y="248" width="24.33" height="10" fill="#8A8A8A" clip-path="url(#barclip)"/>
+<rect x="1135.63" y="248" width="16.37" height="10" fill="#E38C00" clip-path="url(#barclip)"/>
+<circle cx="52" cy="283" r="4" fill="#00ADD8"/>
+<text x="62" y="287" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">Go</text>
+<text x="84.6" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">58%</text>
+<circle cx="236" cy="283" r="4" fill="#3572A5"/>
+<text x="246" y="287" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">Python</text>
+<text x="297.8" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">26%</text>
+<circle cx="420" cy="283" r="4" fill="#6A5ACD"/>
+<text x="430" y="287" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">Lua</text>
+<text x="459.9" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">7.1%</text>
+<circle cx="604" cy="283" r="4" fill="#F34B7D"/>
+<text x="614" y="287" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">C++</text>
+<text x="643.9" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">5.6%</text>
+<circle cx="788" cy="283" r="4" fill="#8A8A8A"/>
+<text x="798" y="287" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">C</text>
+<text x="813.3" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">2.2%</text>
+<circle cx="972" cy="283" r="4" fill="#E38C00"/>
+<text x="982" y="287" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">SQL</text>
+<text x="1011.9" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">1.5%</text>
+<rect x="0" y="0" width="1200" height="2" rx="1" fill="url(#top)"/>
+</svg>
