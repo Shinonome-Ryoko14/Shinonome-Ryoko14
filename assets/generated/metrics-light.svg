@@ -11,8 +11,8 @@
 <ellipse cx="760" cy="112" rx="300" ry="100" fill="url(#halo)" opacity=".55"/>
 <rect x="48" y="26" width="3" height="18" rx="1.5" fill="#3388BB"/>
 <text x="62" y="41" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="2.6">GITHUB</text>
-<text x="1152" y="40" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="500" text-anchor="end" letter-spacing="0.9">UPDATED 2026-11-06</text>
-<text x="48" y="132" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" text-anchor="start">101</text>
+<text x="1152" y="40" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="500" text-anchor="end" letter-spacing="0.9">UPDATED 2026-11-07</text>
+<text x="48" y="132" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" text-anchor="start">102</text>
 <rect x="48" y="148" width="24" height="2" rx="1" fill="#3388BB" opacity=".78"/>
 <text x="48" y="172" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="start" letter-spacing="1.2">CONTRIBUTIONS, LAST YEAR</text>
 <text x="416" y="132" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" text-anchor="start">12</text>
@@ -24,12 +24,12 @@
 <rect x="48" y="202" width="1104" height="1" fill="#CFE6F2" opacity=".75"/>
 <text x="48" y="232" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="700" text-anchor="start" letter-spacing="1.4">LANGUAGE DISTRIBUTION</text>
 <rect x="48" y="248" width="1104" height="10" rx="5" fill="#E3F1F8"/>
-<rect x="48.00" y="248" width="374.72" height="10" fill="#3572A5" clip-path="url(#barclip)"/>
-<rect x="422.72" y="248" width="274.40" height="10" fill="#7E7EFF" clip-path="url(#barclip)"/>
-<rect x="697.12" y="248" width="239.55" height="10" fill="#00ADD8" clip-path="url(#barclip)"/>
-<rect x="936.67" y="248" width="50.06" height="10" fill="#563D7C" clip-path="url(#barclip)"/>
-<rect x="986.73" y="248" width="49.90" height="10" fill="#6E8FCB" clip-path="url(#barclip)"/>
-<rect x="1036.63" y="248" width="115.37" height="10" fill="#6B8A9B" clip-path="url(#barclip)"/>
+<rect x="48.00" y="248" width="374.15" height="10" fill="#3572A5" clip-path="url(#barclip)"/>
+<rect x="422.15" y="248" width="273.99" height="10" fill="#7E7EFF" clip-path="url(#barclip)"/>
+<rect x="696.14" y="248" width="240.85" height="10" fill="#00ADD8" clip-path="url(#barclip)"/>
+<rect x="936.99" y="248" width="49.99" height="10" fill="#563D7C" clip-path="url(#barclip)"/>
+<rect x="986.98" y="248" width="49.83" height="10" fill="#6E8FCB" clip-path="url(#barclip)"/>
+<rect x="1036.81" y="248" width="115.19" height="10" fill="#6B8A9B" clip-path="url(#barclip)"/>
 <circle cx="52" cy="283" r="4" fill="#3572A5"/>
 <text x="62" y="287" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">Python</text>
 <text x="113.8" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">34%</text>
