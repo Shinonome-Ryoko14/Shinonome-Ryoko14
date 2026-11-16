@@ -1,16 +1,16 @@
 {
   "login": "Shinonome-Ryoko14",
-  "generated_at": "2026-11-15T09:36:07Z",
+  "generated_at": "2026-11-16T09:53:57Z",
   "stats": {
-    "contributions": 97,
-    "public_repos": 12,
+    "contributions": 100,
+    "public_repos": 13,
     "languages": 13,
     "top_language": "Python",
     "followers": 2
   },
   "latest_repo": {
     "name": "Distributed-Seckill",
-    "pushed_at": "2026-11-07T06:33:49Z"
+    "pushed_at": "2026-11-16T09:36:08Z"
   },
   "languages": [
     {
@@ -26,6 +26,10 @@
       "bytes": 145944
     },
     {
+      "name": "C++",
+      "bytes": 39882
+    },
+    {
       "name": "CSS",
       "bytes": 30289
     },
@@ -36,10 +40,6 @@
     {
       "name": "Lua",
       "bytes": 29601
-    },
-    {
-      "name": "C++",
-      "bytes": 19683
     },
     {
       "name": "Shell",
