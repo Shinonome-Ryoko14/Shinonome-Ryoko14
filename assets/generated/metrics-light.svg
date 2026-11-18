@@ -11,8 +11,8 @@
 <ellipse cx="760" cy="112" rx="300" ry="100" fill="url(#halo)" opacity=".55"/>
 <rect x="48" y="26" width="3" height="18" rx="1.5" fill="#3388BB"/>
 <text x="62" y="41" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="700" text-anchor="start" letter-spacing="2.6">GITHUB</text>
-<text x="1152" y="40" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="500" text-anchor="end" letter-spacing="0.9">UPDATED 2026-11-17</text>
-<text x="48" y="132" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" text-anchor="start">102</text>
+<text x="1152" y="40" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="500" text-anchor="end" letter-spacing="0.9">UPDATED 2026-11-18</text>
+<text x="48" y="132" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" text-anchor="start">105</text>
 <rect x="48" y="148" width="24" height="2" rx="1" fill="#3388BB" opacity=".78"/>
 <text x="48" y="172" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="600" text-anchor="start" letter-spacing="1.2">CONTRIBUTIONS, LAST YEAR</text>
 <text x="416" y="132" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="56" font-weight="800" text-anchor="start">13</text>
@@ -24,12 +24,12 @@
 <rect x="48" y="202" width="1104" height="1" fill="#CFE6F2" opacity=".75"/>
 <text x="48" y="232" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="10.5" font-weight="700" text-anchor="start" letter-spacing="1.4">LANGUAGE DISTRIBUTION</text>
 <rect x="48" y="248" width="1104" height="10" rx="5" fill="#E3F1F8"/>
-<rect x="48.00" y="248" width="358.79" height="10" fill="#3572A5" clip-path="url(#barclip)"/>
-<rect x="406.79" y="248" width="262.74" height="10" fill="#7E7EFF" clip-path="url(#barclip)"/>
-<rect x="669.54" y="248" width="242.47" height="10" fill="#00ADD8" clip-path="url(#barclip)"/>
-<rect x="912.01" y="248" width="64.96" height="10" fill="#F34B7D" clip-path="url(#barclip)"/>
-<rect x="976.97" y="248" width="47.93" height="10" fill="#563D7C" clip-path="url(#barclip)"/>
-<rect x="1024.90" y="248" width="127.10" height="10" fill="#6B8A9B" clip-path="url(#barclip)"/>
+<rect x="48.00" y="248" width="358.15" height="10" fill="#3572A5" clip-path="url(#barclip)"/>
+<rect x="406.15" y="248" width="262.27" height="10" fill="#7E7EFF" clip-path="url(#barclip)"/>
+<rect x="668.42" y="248" width="244.02" height="10" fill="#00ADD8" clip-path="url(#barclip)"/>
+<rect x="912.44" y="248" width="64.84" height="10" fill="#F34B7D" clip-path="url(#barclip)"/>
+<rect x="977.28" y="248" width="47.85" height="10" fill="#563D7C" clip-path="url(#barclip)"/>
+<rect x="1025.13" y="248" width="126.87" height="10" fill="#6B8A9B" clip-path="url(#barclip)"/>
 <circle cx="52" cy="283" r="4" fill="#3572A5"/>
 <text x="62" y="287" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">Python</text>
 <text x="113.8" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">32%</text>
@@ -47,6 +47,6 @@
 <text x="827.9" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">4.3%</text>
 <circle cx="972" cy="283" r="4" fill="#6B8A9B"/>
 <text x="982" y="287" fill="#12344A" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" font-weight="600" text-anchor="start">Other</text>
-<text x="1026.5" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">12%</text>
+<text x="1026.5" y="287" fill="#6B8A9B" font-family="Inter, Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="12.5" font-weight="600" text-anchor="start">11%</text>
 <rect x="0" y="0" width="1200" height="2" rx="1" fill="url(#top)"/>
 </svg>
