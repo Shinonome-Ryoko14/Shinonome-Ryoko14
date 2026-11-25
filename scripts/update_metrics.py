@@ -621,7 +621,7 @@ def metrics_svg(data: dict, theme: dict) -> str:
     # --- ring -----------------------------------------------------------------
     ring_cx, ring_cy, ring_r = 1040.0, 200.0, 51.0
     circumference = round(2 * math.pi * ring_r, 2)
-    pct = max(0.03, min(1.0, streak / 30.0))
+    pct = max(0.04, min(1.0, streak / 7.0))
     offset = round(circumference * (1.0 - pct), 2)
 
     style = '''
