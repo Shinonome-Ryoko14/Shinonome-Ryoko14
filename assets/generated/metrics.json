@@ -1,31 +1,35 @@
 {
   "login": "Shinonome-Ryoko14",
-  "generated_at": "2026-11-26T11:03:40Z",
+  "generated_at": "2026-11-27T10:59:48Z",
   "stats": {
-    "contributions": 117,
+    "contributions": 118,
     "public_repos": 13,
     "languages": 12,
-    "top_language": "Go",
-    "followers": 2,
-    "streak": 1,
+    "top_language": "Python",
+    "followers": 3,
+    "streak": 2,
     "best_streak": 5
   },
   "latest_repo": {
     "name": "NixOS-config",
-    "pushed_at": "2026-11-25T09:28:29Z"
+    "pushed_at": "2026-11-26T13:10:19Z"
   },
   "languages": [
+    {
+      "name": "Python",
+      "bytes": 167566
+    },
     {
       "name": "Go",
       "bytes": 157342
     },
     {
-      "name": "Python",
-      "bytes": 154649
+      "name": "Nix",
+      "bytes": 85747
     },
     {
-      "name": "Nix",
-      "bytes": 76858
+      "name": "Shell",
+      "bytes": 45027
     },
     {
       "name": "C++",
@@ -42,10 +46,6 @@
     {
       "name": "Lua",
       "bytes": 29601
-    },
-    {
-      "name": "Shell",
-      "bytes": 5439
     },
     {
       "name": "Makefile",
@@ -1539,6 +1539,10 @@
     },
     {
       "date": "2026-11-26",
+      "count": 1
+    },
+    {
+      "date": "2026-11-27",
       "count": 0
     }
   ]
